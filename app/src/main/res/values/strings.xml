@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TablesApp</string>
+    <string name="number_hint">Enter Number</string>
+    <string name="multiplier_hint">Enter Multiplier</string>
+    <string name="calculate_button_title">Calculate</string>
+
+</resources>
